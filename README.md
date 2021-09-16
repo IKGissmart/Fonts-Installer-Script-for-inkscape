@@ -8,7 +8,7 @@ Now the Repo Should be clone. Now Go into the directory by
 ```
 cd Fonts-Installer-Script-for-inkscape 
 ```
-By Default The Script Should be marked as Non-executable to mark it as Executable us the following command 
+By Default The Script Should be marked as Non-executable to mark it as Executable use the following command 
 ``` 
 chmod a+x 'Fonts Downloader.sh'
 ```
